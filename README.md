@@ -1,2 +1,2 @@
 # IOT-project
-project for a into to iot project
+project for a intro to iot project
